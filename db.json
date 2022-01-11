@@ -1,0 +1,14 @@
+{
+  "users": [
+    { "id": "2", "username": "Izan", "password": "III"}
+  ],
+  "tracks": [
+    { "id": "ID1", "title": "Title 1", "singer": "Singer 1" },
+    { "id": "ID2", "title": "Title 2", "singer": "Singer 2" },
+    { "id": "ID3", "title": "Title 3", "singer": "Singer 3" },
+    { "id": "ID4", "title": "Title 4", "singer": "Singer 4" },
+    { "id": "ID5", "title": "Title 5", "singer": "Singer 5" },
+    { "id": "ID6", "title": "Title 6", "singer": "Singer 6" },
+    { "id": "ID7", "title": "Title 7", "singer": "Singer 7" }
+  ]
+}
